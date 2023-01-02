@@ -15,3 +15,5 @@ A memory game built with Flutter and Dart
 - Text to Speech using `flutter_tts` package
 - Confetti Animation using `confetti` package
 
+## Demo
+https://user-images.githubusercontent.com/1134728/210192475-df890b52-1166-4500-8f76-7254d2e644dc.mov
